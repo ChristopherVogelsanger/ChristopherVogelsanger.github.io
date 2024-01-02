@@ -183,7 +183,7 @@ body:hover .visually-hidden button {
 
 .social-icons {
   .fa {
-    color: #000;
+    color: $my-text-color; //#000;
   }
 
   .fa-behance,
@@ -211,7 +211,7 @@ body:hover .visually-hidden button {
   .fa-github,
   .fa-github-alt,
   .fa-github-square {
-    color: $github-color;
+    color: $my-text-color; //$github-color;
   }
 
   .fa-google-plus,
