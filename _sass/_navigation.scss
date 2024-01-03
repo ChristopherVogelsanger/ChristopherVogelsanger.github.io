@@ -408,8 +408,8 @@
     border-bottom: 1px solid $border-color;
 
     &:hover {
-      color: #000;
-      background: $lighter-gray;
+      color: $text-color; // color: #000;
+      background: $background-color; // background: $lighter-gray;
     }
   }
 
