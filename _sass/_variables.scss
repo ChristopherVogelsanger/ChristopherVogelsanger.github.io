@@ -77,14 +77,14 @@ $lighter-gray : mix(#fff, $gray, 90%);
 $my-text-color : #fffff8;
 $my-body-color : #0f0b10;
 $my-background-color : #0f0b10;
-$my-accent-color : #0f0b10;
+$my-accent-color : #22a7a0;
 
 $body-color : $my-body-color; //#fff;
 $background-color : $my-background-color; //#fff;
 $code-background-color : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color : $my-text-color; //$dark-gray;
-$border-color : $lighter-gray;
+$border-color : $my-accent-color;
 
 $primary-color : #7a8288;
 $success-color : #62c462;
