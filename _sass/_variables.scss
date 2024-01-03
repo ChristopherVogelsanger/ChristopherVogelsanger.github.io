@@ -79,6 +79,7 @@ $my-body-color : #0f0b10;
 $my-background-color : #0f0b10;
 $my-accent-color : #22a7a0;
 $my-image-border-color : #f0c91b;
+$my-primary-color : #7a8288;
 
 $body-color : $my-body-color; //#fff;
 $background-color : $my-background-color; //#fff;
@@ -87,7 +88,7 @@ $code-background-color-dark : $light-gray;
 $text-color : $my-text-color; //$dark-gray;
 $border-color : $my-accent-color;
 
-$primary-color : #7a8288;
+$primary-color : $my-primary-color; // #7a8288;
 $success-color : #62c462;
 $warning-color : #f89406;
 $danger-color : #ee5f5b;
