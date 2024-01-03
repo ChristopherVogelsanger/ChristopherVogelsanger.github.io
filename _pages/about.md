@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "Christopher Vogelsanger"
+excerpt: "MSc Computer Science. Interested in Computer Vision, Computer Graphics and Machine Learning especially Reinforcement Learning"
 author_profile: true
 redirect_from: 
   - /about/
