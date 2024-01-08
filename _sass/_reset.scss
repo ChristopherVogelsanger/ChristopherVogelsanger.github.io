@@ -33,7 +33,7 @@ body {
 
 ::selection {
   color: $text-color; //#fff;
-  background: $border-color; //#000;
+  background: $my-selection-color; //#000;
 }
 
 /* Display HTML5 elements in IE6-9 and FF3 */
