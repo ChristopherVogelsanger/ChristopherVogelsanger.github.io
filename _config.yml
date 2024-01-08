@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google-universal" # "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -83,7 +83,7 @@ author:
   name             : "Christopher Vogelsanger"
   avatar           : "new_profile.png"
   bio              : "MSc Computer Science"
-  location         : "Zürich"
+  location         : "Zurich"
   employer         :
   pubmed           : 
   googlescholar    : 
