@@ -11,13 +11,13 @@ redirect_from:
 
 ## Education
 
-* MSc Computer Science, ETH Zurich
+* MSc ETH Zurich in Computer Science
   * Major in Visual and Interactive Computing
   * Minor in Machine Learning
   * Thesis: "Optimizing Multi-Head Attention Layers with Reinforcement Learning"
   * Exchange Semester at Tokyo Institute of Technology, Japan 
   
-* BSc Computer Science, ETH Zurich
+* BSc ETH Zurich in Computer Science
   * Focus on Information and Data Processing
   * Thesis: "Latent Space Analysis of VAE and Intro-VAE applied to 3-dimensional MR Brain Volumes of Multiple Sclerosis, Leukoencephalopathy, and Healthy Patients" (arXiv:2101.06772)
 
